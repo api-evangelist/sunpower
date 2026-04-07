@@ -1,7 +1,11 @@
 aid: sunpower
-url: https://raw.githubusercontent.com/api-evangelist/sunpower/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/sunpower/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.sunpower.com
+description: >-
+  SunPower is a leading global energy company that delivers complete solar solutions
+  to residential, commercial, and power plant customers worldwide.
