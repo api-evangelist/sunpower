@@ -87,7 +87,7 @@ apis:
 common:
   - type: Website
     url: https://www.sunpower.com
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/SunPower
 maintainers:
   - FN: Kin Lane
