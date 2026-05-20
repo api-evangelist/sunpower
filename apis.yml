@@ -85,6 +85,8 @@ apis:
       - type: GitHub
         url: https://github.com/SunPower/SolarUtils
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/sunpower-corporation
   - type: Website
     url: https://www.sunpower.com
   - type: GitHubOrganization
