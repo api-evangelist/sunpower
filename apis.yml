@@ -85,12 +85,16 @@ apis:
       - type: GitHub
         url: https://github.com/SunPower/SolarUtils
 common:
+  - type: DomainSecurity
+    url: security/sunpower-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/sunpower-corporation
   - type: Website
     url: https://www.sunpower.com
   - type: GitHubOrganization
     url: https://github.com/SunPower
+  - url: https://us.sunpower.com/blog
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
