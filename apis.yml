@@ -29,6 +29,12 @@ tags:
   - Solar Energy
   - Renewable Energy
   - Photovoltaics
+  - Open-Source
+  - Python
+tags_raw:
+  - Solar Energy
+  - Renewable Energy
+  - Photovoltaics
   - Open Source
   - Python
 url: >-
@@ -49,6 +55,13 @@ apis:
       assessment. Maintained under the SunPower GitHub organization.
     humanURL: https://github.com/SunPower/pvfactors
     tags:
+      - Solar Energy
+      - Photovoltaics
+      - Irradiance Modeling
+      - Bifacial PV
+      - Python
+      - Open-Source
+    tags_raw:
       - Solar Energy
       - Photovoltaics
       - Irradiance Modeling
@@ -75,6 +88,12 @@ apis:
       - Photovoltaics
       - Mismatch Loss
       - Python
+      - Open-Source
+    tags_raw:
+      - Solar Energy
+      - Photovoltaics
+      - Mismatch Loss
+      - Python
       - Open Source
     properties:
       - type: GitHub
@@ -88,6 +107,12 @@ apis:
       solar irradiance decomposition models.
     humanURL: https://github.com/SunPower/SolarUtils
     tags:
+      - Solar Energy
+      - Solar Position
+      - Irradiance
+      - Python
+      - Open-Source
+    tags_raw:
       - Solar Energy
       - Solar Position
       - Irradiance
