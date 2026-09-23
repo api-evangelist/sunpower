@@ -1,7 +1,9 @@
 ---
 title: SunPower and EagleView partner for precise, faster solar ...
 url: https://www.eagleview.com/solar/sunpower-eagleview-partnership-automate-faster-precise-solar-installations/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"SunPower" press release artificial intelligence'
 position: 1
 source: serpapi-google

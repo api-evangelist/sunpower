@@ -1,7 +1,9 @@
 ---
 title: 'Sony Vs SUNPOWER: Which is a Better Buy? AI Stock ...'
 url: https://danelfin.com/stocks/SONY-sony-vs-SPWR-sunpower-compare
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"SunPower" press release artificial intelligence'
 position: 5
 source: serpapi-google

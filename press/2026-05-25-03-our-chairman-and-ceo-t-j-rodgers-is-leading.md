@@ -1,7 +1,9 @@
 ---
 title: Our Chairman and CEO, T.J. Rodgers, is leading ...
 url: https://www.facebook.com/sunpower/posts/our-chairman-and-ceo-tj-rodgers-is-leading-sunpower-into-a-new-era-of-innovation/1021881723476273/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"SunPower" press release artificial intelligence'
 position: 3
 source: serpapi-google
