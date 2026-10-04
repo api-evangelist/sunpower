@@ -14,14 +14,19 @@ description: >-
 type: Index
 deliveryModel:
   model: unknown
-  open_source: false
+  license_evidence:
+    not_product:
+    - sunpower/pvfactors
+    - sunpower/pvmismatch
+    - sunpower/solarutils
+  open_source: unknown
   commercial: false
   callable_host: false
   label: Delivery model not determined — needs a product licence on record
   confidence: low
   source:
-  - none
-  generated: '2026-08-28'
+  - repository-not-product
+  generated: '2026-09-25'
   method: derived
 accessModel:
   pricing: freemium
@@ -40,7 +45,7 @@ tags:
   - Solar Energy
   - Renewable Energy
   - Photovoltaics
-  - Open-Source
+  - Open Source
   - Python
 tags_raw:
   - Solar Energy
@@ -48,6 +53,7 @@ tags_raw:
   - Photovoltaics
   - Open Source
   - Python
+  - Open-Source
 url: >-
   https://raw.githubusercontent.com/api-evangelist/sunpower/refs/heads/main/apis.yml
 created: '2026-05-02'
@@ -71,7 +77,7 @@ apis:
       - Irradiance Modeling
       - Bifacial PV
       - Python
-      - Open-Source
+      - Open Source
     tags_raw:
       - Solar Energy
       - Photovoltaics
@@ -79,6 +85,7 @@ apis:
       - Bifacial PV
       - Python
       - Open Source
+      - Open-Source
     properties:
       - type: Documentation
         url: https://sunpower.github.io/pvfactors/
@@ -99,13 +106,14 @@ apis:
       - Photovoltaics
       - Mismatch Loss
       - Python
-      - Open-Source
+      - Open Source
     tags_raw:
       - Solar Energy
       - Photovoltaics
       - Mismatch Loss
       - Python
       - Open Source
+      - Open-Source
     properties:
       - type: GitHub
         url: https://github.com/SunPower/PVMismatch
@@ -122,13 +130,14 @@ apis:
       - Solar Position
       - Irradiance
       - Python
-      - Open-Source
+      - Open Source
     tags_raw:
       - Solar Energy
       - Solar Position
       - Irradiance
       - Python
       - Open Source
+      - Open-Source
     properties:
       - type: GitHub
         url: https://github.com/SunPower/SolarUtils
