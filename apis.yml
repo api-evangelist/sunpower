@@ -142,6 +142,12 @@ apis:
       - type: GitHub
         url: https://github.com/SunPower/SolarUtils
 common:
+  - type: Plans
+    url: plans/sunpower-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/sunpower-rate-limits.yml
+  - type: FinOps
+    url: finops/sunpower-finops.yml
   - type: DomainSecurity
     url: security/sunpower-domain-security.yml
   - type: LinkedIn
