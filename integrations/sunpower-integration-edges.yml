@@ -49,11 +49,44 @@ edges:
   detected_by: sweep-energy.py
   first_seen: '2026-10-20'
   partner_match: register-name
+- partner_name: LF Energy landscape (project maintainers)
+  partner: lf-energy
+  partner_match: register
+  type: register
+  channel: standard-directory
+  relationship: standard-participant
+  direction: partner-built
+  evidence: https://landscape.lfenergy.org/?item=renewable-energy--photovoltaics-and-solar-energy--pvfactors
+  category: open-source energy project maintenance
+  contract_reference:
+    register: LF Energy landscape project attributions (landscape.lfenergy.org/data/full.json crunchbase_url + LF
+      Energy project repo MAINTAINERS / GOVERNANCE files)
+    standard: LF Energy
+    spec_file: null
+    role: landscape-project-maintainer
+    registered_name: SunPower
+    matched_domain: sunpower.com
+    matched_by: domain
+    lf_energy_projects: []
+    listed_projects:
+    - PVMismatch
+    - pvfactors
+    listed_projects_total: 2
+    signal_note: 'participation only (''maintains''): the organisation the landscape or a project''s governance
+      file names behind an open-source energy / sustainability project. Projects are CONTEXT, never counted (breadth
+      is not credit)'
+    detected_by: sweep-lf-energy-landscape.py
+    detected: '2026-10-22'
+  detected_by: sweep-lf-energy-landscape.py
+  first_seen: '2026-10-22'
 generated: '2026-10-13'
 method: searched
 checked:
 - https://products.openadr.org/
 - https://solarequipment.energy.ca.gov/Home/DownloadtoExcel?filename=InvertersList
+- https://github.com/arras-energy/tsc/blob/HEAD/GOVERNANCE.md
+- https://github.com/opendsm/opendsm/blob/HEAD/MAINTAINERS.md
+- https://landscape.lfenergy.org/data/full.json
 source:
 - https://products.openadr.org/
 - https://solarequipment.energy.ca.gov/Home/DownloadtoExcel?filename=InvertersList
